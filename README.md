@@ -1,5 +1,12 @@
 # My-Certifications
 
+ |           AWS        |  
+| :------: | 
+
+| Name     | Link     |
+| :------: |:------: |
+| AWS Solution Architect(Associate) | [Link](https://jazsleyportfolio.s3.ap-southeast-1.amazonaws.com/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf) |  
+
  |           Udemy        |  
 | :------: | 
 
