@@ -1,4 +1,11 @@
 # My-Certifications
+ |           Hashicorp        |  
+| :------: | 
+
+| Name     | Link     |
+| :------: |:------: |
+| Terraform Associate | [Link](https://jazsleyportfolio.s3.ap-southeast-1.amazonaws.com/AWS+Certified+Solutions+Architect+-+Associate+certificate.pdf) |  
+
 
  |           AWS        |  
 | :------: | 
